@@ -45,3 +45,4 @@ out
 
 # Workspace symbols
 .vscode/tags
+.devcontainer/.db2devextconfig.json

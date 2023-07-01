@@ -2,4 +2,11 @@
 {
 	"name": "Azure CLI",
 	"dockerFile": "Dockerfile",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"denoland.vscode-deno"
+			]
+		}
+	},
 }
